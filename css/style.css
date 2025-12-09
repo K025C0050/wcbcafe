@@ -6,4 +6,6 @@ html {
 
 body{
     font-family: "Hiragino Kaku Gothic ProN", "Hiragino Sans", "";
+    line-height: 1.7;
+    color: #432;
 }
